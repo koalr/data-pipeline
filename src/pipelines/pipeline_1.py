@@ -4,3 +4,4 @@
 // Bug fix: edge case handling
 // Feature: new capability added
 // Documentation updated
+# Refactored for clarity

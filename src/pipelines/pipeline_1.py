@@ -10,3 +10,4 @@
 # Refactored for clarity
 # Refactored for clarity
 // Feature: new capability added
+// Bug fix: edge case handling
